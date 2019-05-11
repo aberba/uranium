@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+uranium.so
+uranium.dylib
+uranium.dll
+uranium.a
+uranium.lib
+uranium-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.s

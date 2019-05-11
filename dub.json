@@ -1,0 +1,16 @@
+{
+	"description": "A React-like GUI library for D",
+	"dependencies": {
+		"x11": "~>1.0.21",
+		"dunit": "~>1.0.14"
+	},
+	"authors": [
+		"Faissal Bensefia"
+	],
+	"copyright": "Copyright 2019 Faissal Bensefia",
+	"license": "GPL-3.0",
+	"name": "uranium",
+	"buildRequirements": [
+		"allowWarnings"
+	]
+}
